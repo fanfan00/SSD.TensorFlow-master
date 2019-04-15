@@ -3,7 +3,7 @@ Foreign object detection  BY fanyalei
 
 weight:链接：https://pan.baidu.com/s/1QgWLVgJYNUjD65MIlizy8Q 提取码：m1pn 
 
-VOC数据集：链接：https://pan.baidu.com/s/1bzESmd11AmA-Vn15E1dlfQ 
+VOC格式的异物缠绕数据集：链接：https://pan.baidu.com/s/1bzESmd11AmA-Vn15E1dlfQ 
 
 
 run:
