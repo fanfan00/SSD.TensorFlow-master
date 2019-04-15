@@ -2,7 +2,7 @@
 Foreign object detection  BY fanyalei
 weight:链接：https://pan.baidu.com/s/1QgWLVgJYNUjD65MIlizy8Q 提取码：m1pn 
 VOC数据集：链接：https://pan.baidu.com/s/1bzESmd11AmA-Vn15E1dlfQ 
-![image](https://github.com/fanfan00/SSD.TensorFlow-master/upload/master/logs)
+![image](https://github.com/fanfan00/SSD.TensorFlow-master/blob/master/logs/程序目录.jpg)
 run:
 1 'dataset' build ‘tfrecords’ , then run convert_tfrecords.py
 
