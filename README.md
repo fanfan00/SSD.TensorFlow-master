@@ -1,8 +1,10 @@
 # SSD.TensorFlow-master
 Foreign object detection  BY fanyalei
+
 weight:链接：https://pan.baidu.com/s/1QgWLVgJYNUjD65MIlizy8Q 提取码：m1pn 
 VOC数据集：链接：https://pan.baidu.com/s/1bzESmd11AmA-Vn15E1dlfQ 
-![image](https://github.com/fanfan00/SSD.TensorFlow-master/blob/master/logs/程序目录.jpg)
+
+
 run:
 1 'dataset' build ‘tfrecords’ , then run convert_tfrecords.py
 
@@ -20,6 +22,8 @@ Note: you need first modify some directory in voc_eval.py
   Run the following script for visualization:
 
   python simple_ssd_demo.py
+  
+![image](https://github.com/fanfan00/SSD.TensorFlow-master/blob/master/logs/程序目录.jpg)
 
 ![image](https://github.com/fanfan00/SSD.TensorFlow-master/blob/master/logs/120K%E4%BA%A4%E5%8F%89%E7%86%B5%E6%8D%9F%E5%A4%B1.jpg)
 
